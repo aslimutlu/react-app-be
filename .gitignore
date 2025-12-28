@@ -1,5 +1,9 @@
 .env
+.DS_Store
+
+supabase/.temp
 
 backend/.pnpm-store
 backend/.env
 backend/node_modules
+
